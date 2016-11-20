@@ -1,0 +1,2 @@
+c:\users\mayan\documents\visual studio 2015\Projects\SingletonTutorial\SingletonTutorial\bin\Debug\SingletonTutorial.exe.config
+c:\users\mayan\documents\visual studio 2015\Projects\SingletonTutorial\SingletonTutorial\obj\Debug\SingletonTutorial.csprojResolveAssemblyReference.cache
